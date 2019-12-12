@@ -1,0 +1,14 @@
+html {
+  background-color: grey;
+  font-family: sans-serif;
+}
+
+.content-wrapper {
+  text-align: center;
+}
+
+.content {
+  background-color: white;
+  border: 1px black solid;
+  display: inline-block;
+}
